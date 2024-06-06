@@ -1,1 +1,1 @@
-# dashboard
+# admin-dashboard
